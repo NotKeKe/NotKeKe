@@ -2,7 +2,7 @@
   
   # 嗨 :D
   
-  <img height="180" src="https://avatars.githubusercontent.com/u/149957866?v=4" style="border-radius: 50%;" />
+  <img height="180" src="https://avatars.githubusercontent.com/u/149957866?v=4" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;" />
   
   ### Student | Coding Noob
   
