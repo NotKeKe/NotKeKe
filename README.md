@@ -1,21 +1,19 @@
 <div align="center">
   
-  # 嗨 :D
+  # Hello :D
   
-  <img height="180" src="https://avatars.githubusercontent.com/u/149957866?v=4" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;" />
-  
-  ### Student | Coding Noob
-  
-  <br>
-  
-  ![Stars](https://img.shields.io/github/stars/NotKeKe?style=flat&color=66B3FF)
-  ![Followers](https://img.shields.io/github/followers/NotKeKe?style=flat&color=66B3FF)
-  
+  <img height="180" src="https://avatars.githubusercontent.com/u/149957866?v=4" width="100" height="100" />
 </div>
 
-## Skills
-| 技能 | 開始時間 | 熟練度 |
-|:----------:|:----------:|:--------|
-| ![py](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg) | 2024/10月底 | idk
-| ![git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg) | 2024/12月初 | 只會簡單的操作 (上傳檔案到 GitHub) |
-| Markdown | 2025/5月初 | 還行 參考其他人的寫寫 md 不難 |
+## High School Student  
+I'm currently a high school student in Taiwan.   
+  
+## My Skills
+- Python
+  - Started learning Python in Oct 2024.
+  - During this period, I have written a Discord Bot called **YinXi(音汐)**.
+  - Most of my projects, are also written in Python.
+  - **I'm a Python Lover!**
+ 
+## Currently Learning
+- Practiced identifying bugs in unfamiliar projects and contributing via **Pull Requests or Issues**.
