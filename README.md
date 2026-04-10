@@ -1,6 +1,6 @@
 <div align="center">
 
-  <a href="https://www.wales.com.tw">
+  <a href="https://www.wales.com.tw/about">
     <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&weight=700&size=25&duration=800&pause=5000&color=96A7F7&repeat=true&width=100&lines=Hello+%F0%9F%91%8B" alt="Hello">
   </a>
 
