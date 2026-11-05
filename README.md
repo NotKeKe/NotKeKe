@@ -9,7 +9,7 @@
 </div>
 
 
-## I'm a high school student in Taiwan.   
+## I'm an undergraduate as a freshman in Taiwan.
 [![](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://www.wales.com.tw)
 
 ---
@@ -23,5 +23,11 @@
 
 ---
  
-## Currently Learning
-- Practiced identifying bugs in unfamiliar projects and contributing via **Pull Requests or Issues**.
+## 🚧 Currently Working On
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| [YinXi (音汐)](https://github.com/NotKeKe/Discord-Bot-YinXi) | Multi-functional Discord bot — music, AI chat, mini-games, Hypixel SkyBlock lookups, with full zh-TW / zh-CN / en-US i18n. | `discord.py` · `aiohttp` · `motor` · `redis` · `Pillow` · `openai` · `yt-dlp` · `playwright` |
+| [dungeon-stats-display](https://github.com/NotKeKe/dungeon-stats-display) | Hypixel SkyBlock dungeon stats overlay for Minescript — BYOK, parses `latest.log`, prints Odin-style stats on hover. | `Minescript` · `requests` · `nbt` |
+| [XMD](https://github.com/NotKeKe/XMD) | Powerful X (Twitter) media downloader, shipped as both a Discord bot and a web UI. | `FastAPI` · `discord.py` · `twscrape` · `TypeScript` · `Tailwind CSS` |
+| [headpat-gif](https://github.com/NotKeKe/headpat-gif) | Published PyPI library that turns any image into a pet-pet GIF — no temp files, returns a `discord.File`-ready buffer. | `Pillow` |
